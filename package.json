@@ -12,7 +12,7 @@
     "casper": "github:TryGhost/Casper#main",
     "ghost": "4.47.4",
     "ghost-storage-cloudinary": "2.2.1",
-    "dawn": "github:TryGhost/Dawn#main,
+    "dawn": "github:TryGhost/Dawn#main",
     "lyra": "github:TryGhost/lyra#main",
     "mysql2": "2.3.3"
   },
